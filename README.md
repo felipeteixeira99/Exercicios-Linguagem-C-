@@ -1,2 +1,2 @@
-# Exercicios-Linguagem-C-
-Logica de Programacao em C 
+# Exercicios-C
+Exercicios de Logica de Programação realizados em linguagem C 
